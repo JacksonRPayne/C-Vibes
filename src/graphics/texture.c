@@ -33,7 +33,7 @@ Texture textureLoadFromBMP(const char* path){
 }
 
 // Somewhat unnecessary wrapper but whatever
-void textureUse(Texture texture){
+void textureBind(Texture texture){
     glBindTexture(GL_TEXTURE_2D, texture.id);
 }
 

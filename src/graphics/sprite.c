@@ -84,7 +84,7 @@ Sprite spriteInit(Texture texture, unsigned int width, unsigned int height, int 
 // Renders a fucking sprite
 void spriteRender(Sprite sprite, Transform transform, unsigned int shaderProgram){
     glBindVertexArray(sprite.VAO);
-    textureUse(sprite.texture);
+    textureBind(sprite.texture);
 
     shaderSetMat4(shaderProgram, "model", transformToMat4(transform));
     // Applies animation frame
