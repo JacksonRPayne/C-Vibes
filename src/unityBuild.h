@@ -1,0 +1,13 @@
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+#include "system/input.c"
+#include "system/window.c"
+#include "math/mat4.c"
+#include "system/resourceLoading.c"
+#include "graphics/transform.c"
+#include "graphics/shader.c"
+#include "graphics/texture.c"
+#include "graphics/sprite.c"
+#include "graphics/texturedQuad.c"
+#include "graphics/tileRenderer.c"
+#include "game/baby.c"

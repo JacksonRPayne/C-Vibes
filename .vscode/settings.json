@@ -1,0 +1,21 @@
+{
+    "C_Cpp.default.compilerPath": "C:/mingw64/bin/gcc.exe",
+    "files.associations": {
+        "MLTable": "yaml",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "span": "c",
+        "glad.h": "c"
+    },
+    "C_Cpp.intelliSenseEngine": "disabled",
+        
+    "clangd.path": "C:/mingw64/bin/clangd.exe",
+    "clangd.arguments": ["-log=verbose", 
+                         "-pretty", 
+                         "--background-index",
+                         //"--query-driver=/bin/arm-buildroot-linux-gnueabihf-g++", //for cross compile usage
+                         "--compile-commands-dir=C:/Code/C Vibes/compile_commands.json"
+                         ]
+
+}

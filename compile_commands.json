@@ -1,0 +1,67 @@
+[
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/glad.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/main.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/game/baby.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/graphics/shader.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/graphics/sprite.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/graphics/texture.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/graphics/texturedQuad.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/graphics/tileRenderer.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/graphics/transform.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/math/mat4.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/system/input.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/system/resourceLoading.c"
+  },
+  {
+    "directory": "C:/Code/C Vibes",
+    "command": "gcc -Wall -Isrc -include src/unityBuild.h -o main.exe src/main.c -lglfw3dll -lopengl32",
+    "file": "C:/Code/C Vibes/src/system/window.c"
+  }
+]
